@@ -1,0 +1,10 @@
+[
+  {
+    "modid": "tlskincape",
+    "name": "TLSkinCape",
+    "description": "Custom skin and cape loader for Minecraft by TLauncher",
+    "version": "1.17",
+    "url": "https://tlauncher.org",
+    "authorList": ["tlauncher.org"]
+  }
+]

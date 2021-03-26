@@ -1,0 +1,2183 @@
+{
+  "versions": {
+    "1.8": {
+      "classes": [
+        {
+          "methods": [
+            {
+              "name": "render",
+              "obfName": "a"
+            }
+          ],
+          "fields": [],
+          "name": "GuiMainMenu",
+          "obfName": "bxq"
+        },
+        {
+          "methods": [],
+          "fields": [],
+          "name": "ResourceLocation",
+          "obfName": "oa"
+        },
+        {
+          "methods": [
+            {
+              "name": "getLocationSkin",
+              "obfName": "i"
+            },
+            {
+              "name": "getSkinType",
+              "obfName": "l"
+            },
+            {
+              "name": "getLocationCape",
+              "obfName": "k"
+            }
+          ],
+          "fields": [],
+          "name": "AbstractClientPlayer",
+          "obfName": "cil"
+        },
+        {
+          "methods": [
+            {
+              "name": "isWearing",
+              "obfName": "a"
+            },
+            {
+              "name": "getGameProfile",
+              "obfName": "cc"
+            }
+          ],
+          "fields": [],
+          "name": "EntityPlayer",
+          "obfName": "ahd"
+        },
+        {
+          "methods": [],
+          "fields": [],
+          "name": "EnumPlayerModelParts",
+          "obfName": "ahh"
+        },
+        {
+          "methods": [],
+          "fields": [],
+          "name": "GuiScreen",
+          "obfName": "bxf"
+        },
+        {
+          "methods": [],
+          "fields": [],
+          "name": "GuiConnecting",
+          "obfName": "bwb"
+        },
+        {
+          "methods": [
+            {
+              "name": "addScheduledTask",
+              "obfName": "a"
+            },
+            {
+              "name": "displayGuiScreen",
+              "obfName": "a"
+            }
+          ],
+          "fields": [
+            {
+              "name": "debugRenderer",
+              "obfName": "n"
+            },
+            {
+              "name": "queue",
+              "obfName": "aI"
+            }
+          ],
+          "name": "Minecraft",
+          "obfName": "bsu"
+        },
+        {
+          "methods": [
+            {
+              "name": "doRenderLayer",
+              "obfName": "a"
+            }
+          ],
+          "fields": [],
+          "name": "LayerCape",
+          "obfName": "cse"
+        }
+      ]
+    },
+    "1.8.9": {
+      "classes": [
+        {
+          "methods": [
+            {
+              "name": "render",
+              "obfName": "a"
+            }
+          ],
+          "fields": [],
+          "name": "GuiMainMenu",
+          "obfName": "aya"
+        },
+        {
+          "methods": [],
+          "fields": [],
+          "name": "ResourceLocation",
+          "obfName": "jy"
+        },
+        {
+          "methods": [
+            {
+              "name": "getLocationSkin",
+              "obfName": "i"
+            },
+            {
+              "name": "getSkinType",
+              "obfName": "l"
+            },
+            {
+              "name": "getLocationCape",
+              "obfName": "k"
+            }
+          ],
+          "fields": [],
+          "name": "AbstractClientPlayer",
+          "obfName": "bet"
+        },
+        {
+          "methods": [
+            {
+              "name": "isWearing",
+              "obfName": "a"
+            },
+            {
+              "name": "getGameProfile",
+              "obfName": "cd"
+            }
+          ],
+          "fields": [],
+          "name": "EntityPlayer",
+          "obfName": "wn"
+        },
+        {
+          "methods": [],
+          "fields": [],
+          "name": "EnumPlayerModelParts",
+          "obfName": "wo"
+        },
+        {
+          "methods": [],
+          "fields": [],
+          "name": "GuiScreen",
+          "obfName": "axu"
+        },
+        {
+          "methods": [],
+          "fields": [],
+          "name": "GuiConnecting",
+          "obfName": "awz"
+        },
+        {
+          "methods": [
+            {
+              "name": "addScheduledTask",
+              "obfName": "a"
+            },
+            {
+              "name": "displayGuiScreen",
+              "obfName": "a"
+            }
+          ],
+          "fields": [
+            {
+              "name": "debugRenderer",
+              "obfName": "n"
+            },
+            {
+              "name": "queue",
+              "obfName": "aM"
+            }
+          ],
+          "name": "Minecraft",
+          "obfName": "ave"
+        },
+        {
+          "methods": [
+            {
+              "name": "doRenderLayer",
+              "obfName": "a"
+            }
+          ],
+          "fields": [],
+          "name": "LayerCape",
+          "obfName": "bkp"
+        }
+      ]
+    },
+    "1.12.2": {
+      "classes": [
+        {
+          "methods": [
+            {
+              "name": "render",
+              "obfName": "a"
+            }
+          ],
+          "fields": [],
+          "name": "GuiMainMenu",
+          "obfName": "blr"
+        },
+        {
+          "methods": [],
+          "fields": [],
+          "name": "ResourceLocation",
+          "obfName": "nf"
+        },
+        {
+          "methods": [
+            {
+              "name": "getLocationSkin",
+              "obfName": "m"
+            },
+            {
+              "name": "getSkinType",
+              "obfName": "t"
+            },
+            {
+              "name": "getLocationElytra",
+              "obfName": "s"
+            },
+            {
+              "name": "getScoreboardName",
+              "obfName": "bv"
+            },
+            {
+              "name": "getLocationCape",
+              "obfName": "q"
+            },
+            {
+              "name": "getUniqueID",
+              "obfName": "bm"
+            }
+          ],
+          "fields": [],
+          "name": "AbstractClientPlayer",
+          "obfName": "bua"
+        },
+        {
+          "methods": [
+            {
+              "name": "isWearing",
+              "obfName": "a"
+            },
+            {
+              "name": "getGameProfile",
+              "obfName": "da"
+            }
+          ],
+          "fields": [],
+          "name": "EntityPlayer",
+          "obfName": "aed"
+        },
+        {
+          "methods": [],
+          "fields": [],
+          "name": "EnumPlayerModelParts",
+          "obfName": "aee"
+        },
+        {
+          "methods": [],
+          "fields": [],
+          "name": "GuiScreen",
+          "obfName": "blk"
+        },
+        {
+          "methods": [],
+          "fields": [],
+          "name": "GuiConnecting",
+          "obfName": "bkr"
+        },
+        {
+          "methods": [
+            {
+              "name": "addScheduledTask",
+              "obfName": "a"
+            },
+            {
+              "name": "displayGuiScreen",
+              "obfName": "a"
+            }
+          ],
+          "fields": [
+            {
+              "name": "debugRenderer",
+              "obfName": "p"
+            },
+            {
+              "name": "queue",
+              "obfName": "aQ"
+            }
+          ],
+          "name": "Minecraft",
+          "obfName": "bib"
+        },
+        {
+          "methods": [
+            {
+              "name": "doRenderLayer",
+              "obfName": "a"
+            }
+          ],
+          "fields": [],
+          "name": "LayerCape",
+          "obfName": "cbp"
+        }
+      ]
+    },
+    "1.13": {
+      "classes": [
+        {
+          "methods": [
+            {
+              "name": "render",
+              "obfName": "a"
+            }
+          ],
+          "fields": [],
+          "name": "GuiMainMenu",
+          "obfName": "cjx"
+        },
+        {
+          "methods": [],
+          "fields": [],
+          "name": "ResourceLocation",
+          "obfName": "pc"
+        },
+        {
+          "methods": [
+            {
+              "name": "getLocationSkin",
+              "obfName": "i"
+            },
+            {
+              "name": "getSkinType",
+              "obfName": "n"
+            },
+            {
+              "name": "getLocationElytra",
+              "obfName": "m"
+            },
+            {
+              "name": "getScoreboardName",
+              "obfName": "bv"
+            },
+            {
+              "name": "getLocationCape",
+              "obfName": "j"
+            },
+            {
+              "name": "getUniqueID",
+              "obfName": "bt"
+            }
+          ],
+          "fields": [],
+          "name": "AbstractClientPlayer",
+          "obfName": "csv"
+        },
+        {
+          "methods": [
+            {
+              "name": "isWearing",
+              "obfName": "a"
+            },
+            {
+              "name": "getGameProfile",
+              "obfName": "do"
+            }
+          ],
+          "fields": [],
+          "name": "EntityPlayer",
+          "obfName": "aoc"
+        },
+        {
+          "methods": [],
+          "fields": [],
+          "name": "EnumPlayerModelParts",
+          "obfName": "aod"
+        },
+        {
+          "methods": [],
+          "fields": [],
+          "name": "GuiScreen",
+          "obfName": "cjs"
+        },
+        {
+          "methods": [],
+          "fields": [],
+          "name": "GuiConnecting",
+          "obfName": "ciz"
+        },
+        {
+          "methods": [
+            {
+              "name": "init",
+              "obfName": "am"
+            },
+            {
+              "name": "displayGuiScreen",
+              "obfName": "a"
+            }
+          ],
+          "fields": [],
+          "name": "Minecraft",
+          "obfName": "cfi"
+        },
+        {
+          "methods": [
+            {
+              "name": "addScheduledTask",
+              "obfName": "a"
+            },
+            {
+              "name": "displayGuiScreen",
+              "obfName": "a"
+            }
+          ],
+          "fields": [
+            {
+              "name": "debugRenderer",
+              "obfName": "o"
+            },
+            {
+              "name": "queue",
+              "obfName": "aG"
+            }
+          ],
+          "name": "Minecraft",
+          "obfName": "cfi"
+        },
+        {
+          "methods": [
+            {
+              "name": "doRenderLayer",
+              "obfName": "a"
+            }
+          ],
+          "fields": [],
+          "name": "LayerCape",
+          "obfName": "dbh"
+        }
+      ]
+    },
+    "1.13.1": {
+      "classes": [
+        {
+          "methods": [
+            {
+              "name": "render",
+              "obfName": "a"
+            }
+          ],
+          "fields": [],
+          "name": "GuiMainMenu",
+          "obfName": "ckh"
+        },
+        {
+          "methods": [],
+          "fields": [],
+          "name": "ResourceLocation",
+          "obfName": "pc"
+        },
+        {
+          "methods": [
+            {
+              "name": "getLocationSkin",
+              "obfName": "i"
+            },
+            {
+              "name": "getSkinType",
+              "obfName": "n"
+            },
+            {
+              "name": "getLocationElytra",
+              "obfName": "m"
+            },
+            {
+              "name": "getScoreboardName",
+              "obfName": "bv"
+            },
+            {
+              "name": "getLocationCape",
+              "obfName": "j"
+            },
+            {
+              "name": "getUniqueID",
+              "obfName": "bt"
+            }
+          ],
+          "fields": [],
+          "name": "AbstractClientPlayer",
+          "obfName": "ctf"
+        },
+        {
+          "methods": [
+            {
+              "name": "isWearing",
+              "obfName": "a"
+            },
+            {
+              "name": "getGameProfile",
+              "obfName": "do"
+            }
+          ],
+          "fields": [],
+          "name": "EntityPlayer",
+          "obfName": "aof"
+        },
+        {
+          "methods": [],
+          "fields": [],
+          "name": "EnumPlayerModelParts",
+          "obfName": "aog"
+        },
+        {
+          "methods": [
+            {
+              "name": "addScheduledTask",
+              "obfName": "a"
+            },
+            {
+              "name": "displayGuiScreen",
+              "obfName": "a"
+            }
+          ],
+          "fields": [
+            {
+              "name": "debugRenderer",
+              "obfName": "o"
+            },
+            {
+              "name": "queue",
+              "obfName": "aG"
+            }
+          ],
+          "name": "Minecraft",
+          "obfName": "cfs"
+        },
+        {
+          "methods": [
+            {
+              "name": "doRenderLayer",
+              "obfName": "a"
+            }
+          ],
+          "fields": [],
+          "name": "LayerCape",
+          "obfName": "dbh"
+        }
+      ]
+    },
+    "1.13.2": {
+      "classes": [
+        {
+          "methods": [
+            {
+              "name": "render",
+              "obfName": "a"
+            }
+          ],
+          "fields": [],
+          "name": "GuiMainMenu",
+          "obfName": "cki"
+        },
+        {
+          "methods": [],
+          "fields": [],
+          "name": "ResourceLocation",
+          "obfName": "pc"
+        },
+        {
+          "methods": [
+            {
+              "name": "getLocationSkin",
+              "obfName": "i"
+            },
+            {
+              "name": "getSkinType",
+              "obfName": "n"
+            },
+            {
+              "name": "getLocationElytra",
+              "obfName": "m"
+            },
+            {
+              "name": "getScoreboardName",
+              "obfName": "bv"
+            },
+            {
+              "name": "getLocationCape",
+              "obfName": "j"
+            },
+            {
+              "name": "getUniqueID",
+              "obfName": "bt"
+            }
+          ],
+          "fields": [],
+          "name": "AbstractClientPlayer",
+          "obfName": "ctg"
+        },
+        {
+          "methods": [
+            {
+              "name": "isWearing",
+              "obfName": "a"
+            },
+            {
+              "name": "getGameProfile",
+              "obfName": "do"
+            }
+          ],
+          "fields": [],
+          "name": "EntityPlayer",
+          "obfName": "aog"
+        },
+        {
+          "methods": [],
+          "fields": [],
+          "name": "EnumPlayerModelParts",
+          "obfName": "aoh"
+        },
+        {
+          "methods": [
+            {
+              "name": "addScheduledTask",
+              "obfName": "a"
+            },
+            {
+              "name": "displayGuiScreen",
+              "obfName": "a"
+            }
+          ],
+          "fields": [
+            {
+              "name": "debugRenderer",
+              "obfName": "o"
+            },
+            {
+              "name": "queue",
+              "obfName": "aG"
+            }
+          ],
+          "name": "Minecraft",
+          "obfName": "cft"
+        },
+        {
+          "methods": [
+            {
+              "name": "doRenderLayer",
+              "obfName": "a"
+            }
+          ],
+          "fields": [],
+          "name": "LayerCape",
+          "obfName": "dbh"
+        }
+      ]
+    },
+    "1.14": {
+      "classes": [
+        {
+          "methods": [
+            {
+              "name": "render",
+              "obfName": "render"
+            }
+          ],
+          "fields": [],
+          "name": "GuiMainMenu",
+          "obfName": "czv"
+        },
+        {
+          "methods": [],
+          "fields": [],
+          "name": "ResourceLocation",
+          "obfName": "qs"
+        },
+        {
+          "methods": [
+            {
+              "name": "getLocationSkin",
+              "obfName": "m"
+            },
+            {
+              "name": "getSkinType",
+              "obfName": "s"
+            },
+            {
+              "name": "getLocationElytra",
+              "obfName": "p"
+            },
+            {
+              "name": "getScoreboardName",
+              "obfName": "bC"
+            },
+            {
+              "name": "getLocationCape",
+              "obfName": "n"
+            },
+            {
+              "name": "getUniqueID",
+              "obfName": "bA"
+            }
+          ],
+          "fields": [],
+          "name": "AbstractClientPlayer",
+          "obfName": "djs"
+        },
+        {
+          "methods": [
+            {
+              "name": "isWearing",
+              "obfName": "a"
+            },
+            {
+              "name": "getGameProfile",
+              "obfName": "dH"
+            }
+          ],
+          "fields": [],
+          "name": "EntityPlayer",
+          "obfName": "avx"
+        },
+        {
+          "methods": [],
+          "fields": [],
+          "name": "EnumPlayerModelParts",
+          "obfName": "avy"
+        },
+        {
+          "methods": [
+            {
+              "name": "displayGuiScreen",
+              "obfName": "a"
+            }
+          ],
+          "fields": [
+            {
+              "name": "debugRenderer",
+              "obfName": "r"
+            },
+            {
+              "name": "queue",
+              "obfName": "aU"
+            }
+          ],
+          "name": "Minecraft",
+          "obfName": "cvi"
+        },
+        {
+          "methods": [
+            {
+              "name": "doRenderLayer",
+              "obfName": "a"
+            }
+          ],
+          "fields": [],
+          "name": "LayerCape",
+          "obfName": "dsn"
+        }
+      ]
+    },
+    "1.14.1": {
+      "classes": [
+        {
+          "methods": [
+            {
+              "name": "render",
+              "obfName": "render"
+            }
+          ],
+          "fields": [],
+          "name": "GuiMainMenu",
+          "obfName": "czx"
+        },
+        {
+          "methods": [],
+          "fields": [],
+          "name": "ResourceLocation",
+          "obfName": "qs"
+        },
+        {
+          "methods": [
+            {
+              "name": "getLocationSkin",
+              "obfName": "m"
+            },
+            {
+              "name": "getSkinType",
+              "obfName": "s"
+            },
+            {
+              "name": "getLocationElytra",
+              "obfName": "p"
+            },
+            {
+              "name": "getScoreboardName",
+              "obfName": "bC"
+            },
+            {
+              "name": "getLocationCape",
+              "obfName": "n"
+            },
+            {
+              "name": "getUniqueID",
+              "obfName": "bA"
+            }
+          ],
+          "fields": [],
+          "name": "AbstractClientPlayer",
+          "obfName": "dju"
+        },
+        {
+          "methods": [
+            {
+              "name": "isWearing",
+              "obfName": "a"
+            },
+            {
+              "name": "getGameProfile",
+              "obfName": "dH"
+            }
+          ],
+          "fields": [],
+          "name": "EntityPlayer",
+          "obfName": "avy"
+        },
+        {
+          "methods": [],
+          "fields": [],
+          "name": "EnumPlayerModelParts",
+          "obfName": "avz"
+        },
+        {
+          "methods": [
+            {
+              "name": "displayGuiScreen",
+              "obfName": "a"
+            }
+          ],
+          "fields": [
+            {
+              "name": "debugRenderer",
+              "obfName": "r"
+            },
+            {
+              "name": "queue",
+              "obfName": "aU"
+            }
+          ],
+          "name": "Minecraft",
+          "obfName": "cvk"
+        },
+        {
+          "methods": [
+            {
+              "name": "doRenderLayer",
+              "obfName": "a"
+            }
+          ],
+          "fields": [],
+          "name": "LayerCape",
+          "obfName": "dsn"
+        }
+      ]
+    },
+    "1.14.2": {
+      "classes": [
+        {
+          "methods": [
+            {
+              "name": "render",
+              "obfName": "render"
+            }
+          ],
+          "fields": [],
+          "name": "GuiMainMenu",
+          "obfName": "czx"
+        },
+        {
+          "methods": [],
+          "fields": [],
+          "name": "ResourceLocation",
+          "obfName": "qs"
+        },
+        {
+          "methods": [
+            {
+              "name": "getLocationSkin",
+              "obfName": "m"
+            },
+            {
+              "name": "getSkinType",
+              "obfName": "s"
+            },
+            {
+              "name": "getLocationElytra",
+              "obfName": "p"
+            },
+            {
+              "name": "getScoreboardName",
+              "obfName": "bC"
+            },
+            {
+              "name": "getLocationCape",
+              "obfName": "n"
+            },
+            {
+              "name": "getUniqueID",
+              "obfName": "bA"
+            }
+          ],
+          "fields": [],
+          "name": "AbstractClientPlayer",
+          "obfName": "dju"
+        },
+        {
+          "methods": [
+            {
+              "name": "isWearing",
+              "obfName": "a"
+            },
+            {
+              "name": "getGameProfile",
+              "obfName": "dH"
+            }
+          ],
+          "fields": [],
+          "name": "EntityPlayer",
+          "obfName": "avy"
+        },
+        {
+          "methods": [],
+          "fields": [],
+          "name": "EnumPlayerModelParts",
+          "obfName": "avz"
+        },
+        {
+          "methods": [
+            {
+              "name": "displayGuiScreen",
+              "obfName": "a"
+            }
+          ],
+          "fields": [
+            {
+              "name": "debugRenderer",
+              "obfName": "r"
+            },
+            {
+              "name": "queue",
+              "obfName": "aU"
+            }
+          ],
+          "name": "Minecraft",
+          "obfName": "cvk"
+        },
+        {
+          "methods": [
+            {
+              "name": "doRenderLayer",
+              "obfName": "a"
+            }
+          ],
+          "fields": [],
+          "name": "LayerCape",
+          "obfName": "dsn"
+        }
+      ]
+    },
+    "1.14.3": {
+      "classes": [
+        {
+          "methods": [
+            {
+              "name": "render",
+              "obfName": "render"
+            }
+          ],
+          "fields": [],
+          "name": "GuiMainMenu",
+          "obfName": "dab"
+        },
+        {
+          "methods": [],
+          "fields": [],
+          "name": "ResourceLocation",
+          "obfName": "qt"
+        },
+        {
+          "methods": [
+            {
+              "name": "getLocationSkin",
+              "obfName": "m"
+            },
+            {
+              "name": "getSkinType",
+              "obfName": "s"
+            },
+            {
+              "name": "getLocationElytra",
+              "obfName": "p"
+            },
+            {
+              "name": "getScoreboardName",
+              "obfName": "bD"
+            },
+            {
+              "name": "getLocationCape",
+              "obfName": "n"
+            },
+            {
+              "name": "getUniqueID",
+              "obfName": "bB"
+            }
+          ],
+          "fields": [],
+          "name": "AbstractClientPlayer",
+          "obfName": "djy"
+        },
+        {
+          "methods": [
+            {
+              "name": "isWearing",
+              "obfName": "a"
+            },
+            {
+              "name": "getGameProfile",
+              "obfName": "dI"
+            }
+          ],
+          "fields": [],
+          "name": "EntityPlayer",
+          "obfName": "awb"
+        },
+        {
+          "methods": [],
+          "fields": [],
+          "name": "EnumPlayerModelParts",
+          "obfName": "awc"
+        },
+        {
+          "methods": [
+            {
+              "name": "displayGuiScreen",
+              "obfName": "a"
+            }
+          ],
+          "fields": [
+            {
+              "name": "debugRenderer",
+              "obfName": "r"
+            },
+            {
+              "name": "queue",
+              "obfName": "aU"
+            }
+          ],
+          "name": "Minecraft",
+          "obfName": "cvo"
+        },
+        {
+          "methods": [
+            {
+              "name": "doRenderLayer",
+              "obfName": "a"
+            }
+          ],
+          "fields": [],
+          "name": "LayerCape",
+          "obfName": "dsn"
+        }
+      ]
+    },
+    "1.14.4": {
+      "classes": [
+        {
+          "methods": [
+            {
+              "name": "render",
+              "obfName": "render"
+            }
+          ],
+          "fields": [],
+          "name": "GuiMainMenu",
+          "obfName": "dcp"
+        },
+        {
+          "methods": [],
+          "fields": [],
+          "name": "ResourceLocation",
+          "obfName": "qv"
+        },
+        {
+          "methods": [
+            {
+              "name": "getLocationSkin",
+              "obfName": "m"
+            },
+            {
+              "name": "getSkinType",
+              "obfName": "s"
+            },
+            {
+              "name": "getLocationElytra",
+              "obfName": "p"
+            },
+            {
+              "name": "getScoreboardName",
+              "obfName": "bD"
+            },
+            {
+              "name": "getLocationCape",
+              "obfName": "n"
+            },
+            {
+              "name": "getUniqueID",
+              "obfName": "bB"
+            }
+          ],
+          "fields": [],
+          "name": "AbstractClientPlayer",
+          "obfName": "dmm"
+        },
+        {
+          "methods": [
+            {
+              "name": "isWearing",
+              "obfName": "a"
+            },
+            {
+              "name": "getGameProfile",
+              "obfName": "dH"
+            }
+          ],
+          "fields": [],
+          "name": "EntityPlayer",
+          "obfName": "awg"
+        },
+        {
+          "methods": [],
+          "fields": [],
+          "name": "EnumPlayerModelParts",
+          "obfName": "awh"
+        },
+        {
+          "methods": [
+            {
+              "name": "displayGuiScreen",
+              "obfName": "b"
+            }
+          ],
+          "fields": [
+            {
+              "name": "debugRenderer",
+              "obfName": "q"
+            },
+            {
+              "name": "queue",
+              "obfName": "aU"
+            }
+          ],
+          "name": "Minecraft",
+          "obfName": "cyc"
+        },
+        {
+          "methods": [
+            {
+              "name": "doRenderLayer",
+              "obfName": "a"
+            }
+          ],
+          "fields": [],
+          "name": "LayerCape",
+          "obfName": "dsn"
+        }
+      ]
+    },
+    "1.15": {
+      "classes": [
+        {
+          "methods": [
+            {
+              "name": "render",
+              "obfName": "render"
+            }
+          ],
+          "fields": [],
+          "name": "GuiMainMenu",
+          "obfName": "dgd"
+        },
+        {
+          "methods": [],
+          "fields": [],
+          "name": "ResourceLocation",
+          "obfName": "sm"
+        },
+        {
+          "methods": [
+            {
+              "name": "getLocationSkin",
+              "obfName": "m"
+            },
+            {
+              "name": "getSkinType",
+              "obfName": "s"
+            },
+            {
+              "name": "getLocationElytra",
+              "obfName": "p"
+            },
+            {
+              "name": "getScoreboardName",
+              "obfName": "bD"
+            },
+            {
+              "name": "getLocationCape",
+              "obfName": "n"
+            },
+            {
+              "name": "getUniqueID",
+              "obfName": "bB"
+            }
+          ],
+          "fields": [],
+          "name": "AbstractClientPlayer",
+          "obfName": "dpv"
+        },
+        {
+          "methods": [
+            {
+              "name": "isWearing",
+              "obfName": "a"
+            },
+            {
+              "name": "getGameProfile",
+              "obfName": "ed"
+            }
+          ],
+          "fields": [],
+          "name": "EntityPlayer",
+          "obfName": "ayg"
+        },
+        {
+          "methods": [],
+          "fields": [],
+          "name": "EnumPlayerModelParts",
+          "obfName": "ayh"
+        },
+        {
+          "methods": [
+            {
+              "name": "displayGuiScreen",
+              "obfName": "a"
+            }
+          ],
+          "fields": [
+            {
+              "name": "debugRenderer",
+              "obfName": "h"
+            },
+            {
+              "name": "queue",
+              "obfName": "aO"
+            }
+          ],
+          "name": "Minecraft",
+          "obfName": "dbl"
+        },
+        {
+          "methods": [
+            {
+              "name": "doRenderLayer",
+              "obfName": "a"
+            }
+          ],
+          "fields": [],
+          "name": "LayerCape",
+          "obfName": "dye"
+        }
+      ]
+    },
+    "1.15.1": {
+      "classes": [
+        {
+          "methods": [
+            {
+              "name": "render",
+              "obfName": "render"
+            }
+          ],
+          "fields": [],
+          "name": "GuiMainMenu",
+          "obfName": "dgd"
+        },
+        {
+          "methods": [],
+          "fields": [],
+          "name": "ResourceLocation",
+          "obfName": "sm"
+        },
+        {
+          "methods": [
+            {
+              "name": "getLocationSkin",
+              "obfName": "m"
+            },
+            {
+              "name": "getSkinType",
+              "obfName": "s"
+            },
+            {
+              "name": "getLocationElytra",
+              "obfName": "p"
+            },
+            {
+              "name": "getScoreboardName",
+              "obfName": "bD"
+            },
+            {
+              "name": "getLocationCape",
+              "obfName": "n"
+            },
+            {
+              "name": "getUniqueID",
+              "obfName": "bB"
+            }
+          ],
+          "fields": [],
+          "name": "AbstractClientPlayer",
+          "obfName": "dpv"
+        },
+        {
+          "methods": [
+            {
+              "name": "isWearing",
+              "obfName": "a"
+            },
+            {
+              "name": "getGameProfile",
+              "obfName": "ed"
+            }
+          ],
+          "fields": [],
+          "name": "EntityPlayer",
+          "obfName": "ayg"
+        },
+        {
+          "methods": [],
+          "fields": [],
+          "name": "EnumPlayerModelParts",
+          "obfName": "ayh"
+        },
+        {
+          "methods": [
+            {
+              "name": "displayGuiScreen",
+              "obfName": "a"
+            }
+          ],
+          "fields": [
+            {
+              "name": "debugRenderer",
+              "obfName": "h"
+            },
+            {
+              "name": "queue",
+              "obfName": "aO"
+            }
+          ],
+          "name": "Minecraft",
+          "obfName": "dbl"
+        },
+        {
+          "methods": [
+            {
+              "name": "doRenderLayer",
+              "obfName": "a"
+            }
+          ],
+          "fields": [],
+          "name": "LayerCape",
+          "obfName": "dye"
+        }
+      ]
+    },
+    "1.15.2": {
+      "classes": [
+        {
+          "methods": [
+            {
+              "name": "render",
+              "obfName": "render"
+            }
+          ],
+          "fields": [],
+          "name": "GuiMainMenu",
+          "obfName": "dgf"
+        },
+        {
+          "methods": [],
+          "fields": [],
+          "name": "ResourceLocation",
+          "obfName": "sm"
+        },
+        {
+          "methods": [
+            {
+              "name": "getLocationSkin",
+              "obfName": "m"
+            },
+            {
+              "name": "getSkinType",
+              "obfName": "s"
+            },
+            {
+              "name": "getLocationElytra",
+              "obfName": "p"
+            },
+            {
+              "name": "getScoreboardName",
+              "obfName": "bD"
+            },
+            {
+              "name": "getLocationCape",
+              "obfName": "n"
+            },
+            {
+              "name": "getUniqueID",
+              "obfName": "bB"
+            }
+          ],
+          "fields": [],
+          "name": "AbstractClientPlayer",
+          "obfName": "dpy"
+        },
+        {
+          "methods": [
+            {
+              "name": "isWearing",
+              "obfName": "a"
+            },
+            {
+              "name": "getGameProfile",
+              "obfName": "ed"
+            }
+          ],
+          "fields": [],
+          "name": "EntityPlayer",
+          "obfName": "ayj"
+        },
+        {
+          "methods": [],
+          "fields": [],
+          "name": "EnumPlayerModelParts",
+          "obfName": "ayk"
+        },
+        {
+          "methods": [
+            {
+              "name": "displayGuiScreen",
+              "obfName": "a"
+            }
+          ],
+          "fields": [
+            {
+              "name": "debugRenderer",
+              "obfName": "h"
+            },
+            {
+              "name": "queue",
+              "obfName": "aO"
+            }
+          ],
+          "name": "Minecraft",
+          "obfName": "dbn"
+        },
+        {
+          "methods": [
+            {
+              "name": "doRenderLayer",
+              "obfName": "a"
+            }
+          ],
+          "fields": [],
+          "name": "LayerCape",
+          "obfName": "dye"
+        }
+      ]
+    },
+    "1.16": {
+      "classes": [
+        {
+          "methods": [
+            {
+              "name": "render",
+              "obfName": "a"
+            }
+          ],
+          "fields": [],
+          "name": "GuiMainMenu",
+          "obfName": "dqw"
+        },
+        {
+          "methods": [],
+          "fields": [],
+          "name": "ResourceLocation",
+          "obfName": "uh"
+        },
+        {
+          "methods": [
+            {
+              "name": "getLocationSkin",
+              "obfName": "o"
+            },
+            {
+              "name": "getSkinType",
+              "obfName": "u"
+            },
+            {
+              "name": "getLocationElytra",
+              "obfName": "r"
+            },
+            {
+              "name": "getScoreboardName",
+              "obfName": "bT"
+            },
+            {
+              "name": "getLocationCape",
+              "obfName": "p"
+            },
+            {
+              "name": "getUniqueID",
+              "obfName": "bR"
+            }
+          ],
+          "fields": [],
+          "name": "AbstractClientPlayer",
+          "obfName": "ebc"
+        },
+        {
+          "methods": [],
+          "fields": [],
+          "name": "MatrixStack",
+          "obfName": "dhl"
+        },
+        {
+          "methods": [
+            {
+              "name": "isWearing",
+              "obfName": "a"
+            },
+            {
+              "name": "getGameProfile",
+              "obfName": "ez"
+            }
+          ],
+          "fields": [],
+          "name": "EntityPlayer",
+          "obfName": "bec"
+        },
+        {
+          "methods": [],
+          "fields": [],
+          "name": "EnumPlayerModelParts",
+          "obfName": "bed"
+        },
+        {
+          "methods": [
+            {
+              "name": "displayGuiScreen",
+              "obfName": "a"
+            }
+          ],
+          "fields": [
+            {
+              "name": "debugRenderer",
+              "obfName": "i"
+            },
+            {
+              "name": "queue",
+              "obfName": "aR"
+            }
+          ],
+          "name": "Minecraft",
+          "obfName": "dlx"
+        },
+        {
+          "methods": [
+            {
+              "name": "doRenderLayer",
+              "obfName": "a"
+            }
+          ],
+          "fields": [],
+          "name": "LayerCape",
+          "obfName": "ehm"
+        }
+      ]
+    },
+    "1.16.1": {
+      "classes": [
+        {
+          "methods": [
+            {
+              "name": "render",
+              "obfName": "a"
+            }
+          ],
+          "fields": [],
+          "name": "GuiMainMenu",
+          "obfName": "dqw"
+        },
+        {
+          "methods": [],
+          "fields": [],
+          "name": "ResourceLocation",
+          "obfName": "uh"
+        },
+        {
+          "methods": [
+            {
+              "name": "getLocationSkin",
+              "obfName": "o"
+            },
+            {
+              "name": "getSkinType",
+              "obfName": "u"
+            },
+            {
+              "name": "getLocationElytra",
+              "obfName": "r"
+            },
+            {
+              "name": "getScoreboardName",
+              "obfName": "bT"
+            },
+            {
+              "name": "getLocationCape",
+              "obfName": "p"
+            },
+            {
+              "name": "getUniqueID",
+              "obfName": "bR"
+            }
+          ],
+          "fields": [],
+          "name": "AbstractClientPlayer",
+          "obfName": "ebc"
+        },
+        {
+          "methods": [],
+          "fields": [],
+          "name": "MatrixStack",
+          "obfName": "dhl"
+        },
+        {
+          "methods": [
+            {
+              "name": "isWearing",
+              "obfName": "a"
+            },
+            {
+              "name": "getGameProfile",
+              "obfName": "ez"
+            }
+          ],
+          "fields": [],
+          "name": "EntityPlayer",
+          "obfName": "bec"
+        },
+        {
+          "methods": [],
+          "fields": [],
+          "name": "EnumPlayerModelParts",
+          "obfName": "bed"
+        },
+        {
+          "methods": [
+            {
+              "name": "displayGuiScreen",
+              "obfName": "a"
+            }
+          ],
+          "fields": [
+            {
+              "name": "debugRenderer",
+              "obfName": "i"
+            },
+            {
+              "name": "queue",
+              "obfName": "aR"
+            }
+          ],
+          "name": "Minecraft",
+          "obfName": "dlx"
+        },
+        {
+          "methods": [
+            {
+              "name": "doRenderLayer",
+              "obfName": "a"
+            }
+          ],
+          "fields": [],
+          "name": "LayerCape",
+          "obfName": "ehm"
+        }
+      ]
+    },
+    "1.16.2": {
+      "classes": [
+        {
+          "methods": [
+            {
+              "name": "render",
+              "obfName": "a"
+            }
+          ],
+          "fields": [],
+          "name": "GuiMainMenu",
+          "obfName": "dov"
+        },
+        {
+          "methods": [],
+          "fields": [],
+          "name": "ResourceLocation",
+          "obfName": "vk"
+        },
+        {
+          "methods": [
+            {
+              "name": "getLocationSkin",
+              "obfName": "o"
+            },
+            {
+              "name": "getSkinType",
+              "obfName": "u"
+            },
+            {
+              "name": "getLocationElytra",
+              "obfName": "r"
+            },
+            {
+              "name": "getScoreboardName",
+              "obfName": "bT"
+            },
+            {
+              "name": "getLocationCape",
+              "obfName": "p"
+            },
+            {
+              "name": "getUniqueID",
+              "obfName": "bR"
+            }
+          ],
+          "fields": [],
+          "name": "AbstractClientPlayer",
+          "obfName": "dzb"
+        },
+        {
+          "methods": [],
+          "fields": [],
+          "name": "MatrixStack",
+          "obfName": "dfj"
+        },
+        {
+          "methods": [
+            {
+              "name": "isWearing",
+              "obfName": "a"
+            },
+            {
+              "name": "getGameProfile",
+              "obfName": "ez"
+            }
+          ],
+          "fields": [],
+          "name": "EntityPlayer",
+          "obfName": "bft"
+        },
+        {
+          "methods": [],
+          "fields": [],
+          "name": "EnumPlayerModelParts",
+          "obfName": "bfu"
+        },
+        {
+          "methods": [
+            {
+              "name": "displayGuiScreen",
+              "obfName": "a"
+            }
+          ],
+          "fields": [
+            {
+              "name": "debugRenderer",
+              "obfName": "i"
+            },
+            {
+              "name": "queue",
+              "obfName": "aR"
+            }
+          ],
+          "name": "Minecraft",
+          "obfName": "djw"
+        },
+        {
+          "methods": [
+            {
+              "name": "doRenderLayer",
+              "obfName": "a"
+            }
+          ],
+          "fields": [],
+          "name": "LayerCape",
+          "obfName": "ehm"
+        }
+      ]
+    },
+    "1.16.3": {
+      "classes": [
+        {
+          "methods": [
+            {
+              "name": "render",
+              "obfName": "a"
+            }
+          ],
+          "fields": [],
+          "name": "GuiMainMenu",
+          "obfName": "dov"
+        },
+        {
+          "methods": [],
+          "fields": [],
+          "name": "ResourceLocation",
+          "obfName": "vk"
+        },
+        {
+          "methods": [
+            {
+              "name": "getLocationSkin",
+              "obfName": "o"
+            },
+            {
+              "name": "getSkinType",
+              "obfName": "u"
+            },
+            {
+              "name": "getLocationElytra",
+              "obfName": "r"
+            },
+            {
+              "name": "getScoreboardName",
+              "obfName": "bT"
+            },
+            {
+              "name": "getLocationCape",
+              "obfName": "p"
+            },
+            {
+              "name": "getUniqueID",
+              "obfName": "bR"
+            }
+          ],
+          "fields": [],
+          "name": "AbstractClientPlayer",
+          "obfName": "dzb"
+        },
+        {
+          "methods": [],
+          "fields": [],
+          "name": "MatrixStack",
+          "obfName": "dfj"
+        },
+        {
+          "methods": [
+            {
+              "name": "isWearing",
+              "obfName": "a"
+            },
+            {
+              "name": "getGameProfile",
+              "obfName": "ez"
+            }
+          ],
+          "fields": [],
+          "name": "EntityPlayer",
+          "obfName": "bft"
+        },
+        {
+          "methods": [],
+          "fields": [],
+          "name": "EnumPlayerModelParts",
+          "obfName": "bfu"
+        },
+        {
+          "methods": [
+            {
+              "name": "displayGuiScreen",
+              "obfName": "a"
+            }
+          ],
+          "fields": [
+            {
+              "name": "debugRenderer",
+              "obfName": "i"
+            },
+            {
+              "name": "queue",
+              "obfName": "aR"
+            }
+          ],
+          "name": "Minecraft",
+          "obfName": "djw"
+        },
+        {
+          "methods": [
+            {
+              "name": "doRenderLayer",
+              "obfName": "a"
+            }
+          ],
+          "fields": [],
+          "name": "LayerCape",
+          "obfName": "ehm"
+        }
+      ]
+    },
+    "1.16.4": {
+      "classes": [
+        {
+          "methods": [
+            {
+              "name": "render",
+              "obfName": "a"
+            }
+          ],
+          "fields": [],
+          "name": "GuiMainMenu",
+          "obfName": "doy"
+        },
+        {
+          "methods": [],
+          "fields": [],
+          "name": "ResourceLocation",
+          "obfName": "vk"
+        },
+        {
+          "methods": [
+            {
+              "name": "getLocationSkin",
+              "obfName": "o"
+            },
+            {
+              "name": "getSkinType",
+              "obfName": "u"
+            },
+            {
+              "name": "getLocationElytra",
+              "obfName": "r"
+            },
+            {
+              "name": "getScoreboardName",
+              "obfName": "bT"
+            },
+            {
+              "name": "getLocationCape",
+              "obfName": "p"
+            },
+            {
+              "name": "getUniqueID",
+              "obfName": "bR"
+            }
+          ],
+          "fields": [],
+          "name": "AbstractClientPlayer",
+          "obfName": "dzj"
+        },
+        {
+          "methods": [],
+          "fields": [],
+          "name": "MatrixStack",
+          "obfName": "dfm"
+        },
+        {
+          "methods": [
+            {
+              "name": "isWearing",
+              "obfName": "a"
+            },
+            {
+              "name": "getGameProfile",
+              "obfName": "eA"
+            }
+          ],
+          "fields": [],
+          "name": "EntityPlayer",
+          "obfName": "bfw"
+        },
+        {
+          "methods": [],
+          "fields": [],
+          "name": "EnumPlayerModelParts",
+          "obfName": "bfx"
+        },
+        {
+          "methods": [
+            {
+              "name": "displayGuiScreen",
+              "obfName": "a"
+            }
+          ],
+          "fields": [
+            {
+              "name": "debugRenderer",
+              "obfName": "i"
+            },
+            {
+              "name": "queue",
+              "obfName": "aU"
+            }
+          ],
+          "name": "Minecraft",
+          "obfName": "djz"
+        },
+        {
+          "methods": [
+            {
+              "name": "doRenderLayer",
+              "obfName": "a"
+            }
+          ],
+          "fields": [],
+          "name": "LayerCape",
+          "obfName": "ehu"
+        }
+      ]
+    },
+    "1.16.5": {
+      "classes": [
+        {
+          "methods": [
+            {
+              "name": "render",
+              "obfName": "a"
+            }
+          ],
+          "fields": [],
+          "name": "GuiMainMenu",
+          "obfName": "doy"
+        },
+        {
+          "methods": [],
+          "fields": [],
+          "name": "ResourceLocation",
+          "obfName": "vk"
+        },
+        {
+          "methods": [
+            {
+              "name": "getLocationSkin",
+              "obfName": "o"
+            },
+            {
+              "name": "getSkinType",
+              "obfName": "u"
+            },
+            {
+              "name": "getLocationElytra",
+              "obfName": "r"
+            },
+            {
+              "name": "getScoreboardName",
+              "obfName": "bT"
+            },
+            {
+              "name": "getLocationCape",
+              "obfName": "p"
+            },
+            {
+              "name": "getUniqueID",
+              "obfName": "bR"
+            }
+          ],
+          "fields": [],
+          "name": "AbstractClientPlayer",
+          "obfName": "dzj"
+        },
+        {
+          "methods": [],
+          "fields": [],
+          "name": "MatrixStack",
+          "obfName": "dfm"
+        },
+        {
+          "methods": [
+            {
+              "name": "isWearing",
+              "obfName": "a"
+            },
+            {
+              "name": "getGameProfile",
+              "obfName": "eA"
+            }
+          ],
+          "fields": [],
+          "name": "EntityPlayer",
+          "obfName": "bfw"
+        },
+        {
+          "methods": [],
+          "fields": [],
+          "name": "EnumPlayerModelParts",
+          "obfName": "bfx"
+        },
+        {
+          "methods": [
+            {
+              "name": "displayGuiScreen",
+              "obfName": "a"
+            }
+          ],
+          "fields": [
+            {
+              "name": "debugRenderer",
+              "obfName": "i"
+            },
+            {
+              "name": "queue",
+              "obfName": "aU"
+            }
+          ],
+          "name": "Minecraft",
+          "obfName": "djz"
+        },
+        {
+          "methods": [
+            {
+              "name": "doRenderLayer",
+              "obfName": "a"
+            }
+          ],
+          "fields": [],
+          "name": "LayerCape",
+          "obfName": "ehu"
+        }
+      ]
+    }
+  }
+}
